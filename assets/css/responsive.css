@@ -1,0 +1,1091 @@
+@media (min-width: 1401px) {
+  .container.lg {
+    min-width: 1350px;
+  }
+  .container {
+    max-width: 1210px;
+  }
+}
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1400px) {
+  .Journey__slider .owl-nav {
+    right: 9%;
+  }
+  header.header-area.v2 .menu-area ul#nav {
+    gap: 36px;
+  }
+  .header-area .container.lg {
+    max-width: 100%;
+  }
+
+  .Origins__block.right::after {
+    left: -43px;
+  }
+  .Origins__block::after {
+    right: -43px;
+  }
+  .Origins__block.right::before {
+    left: -53px;
+  }
+  .Origins__block::before {
+    right: -53px;
+  }
+}
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+  .v2 .logo-area a {
+    margin: 0;
+  }
+  .container.lg {
+    max-width: 100%;
+  }
+  .pb_150 {
+    padding-bottom: 100px;
+  }
+
+  .mb_80 {
+    margin-bottom: 60px;
+  }
+  .p-32 {
+    padding: 24px;
+  }
+  .pt_80 {
+    padding-top: 60px;
+  }
+  .pt_100 {
+    padding-top: 80px;
+  }
+  .gx-80 {
+    --bs-gutter-x: 40px;
+  }
+  .text-xl {
+    font-size: 18px;
+  }
+  .big-title {
+    font-size: 48px;
+  }
+  h1 {
+    font-size: 40px;
+  }
+  .common__card-content {
+    padding: 16px;
+  }
+
+  .common__card-content h4 {
+    font-size: 20px;
+  }
+
+  .Advantage__item h3 {
+    font-size: 24px;
+  }
+
+  .section-title h1 {
+    font-size: 36px;
+  }
+
+  .text-80 {
+    font-size: 48px;
+  }
+
+  .user-block p {
+    font-size: 14px;
+  }
+
+  .feedback__block > p {
+    font-size: 16px;
+  }
+
+  .feedback__block {
+    padding: 24px;
+  }
+
+  .map-block iframe {
+    height: 575px;
+  }
+  .Trade__card-content h3 {
+    font-size: 24px;
+    height: 28px;
+    overflow: hidden;
+  }
+  .Journey__slider .owl-nav {
+    right: 4%;
+  }
+  .Comparison__option p {
+    max-width: 300px;
+  }
+  .Origins__block {
+    max-width: 404px;
+  }
+  .History__wrapper {
+    overflow: auto;
+    margin-right: -350px;
+  }
+
+  .History__wrapper .Journey__block {
+    padding: 0 20px;
+  }
+
+  .History__wrapper .Journey__block span:after {
+    width: 129%;
+  }
+  .Featured__block .image-block {
+    height: 350px;
+  }
+
+  .Foundation .Featured__item .image-block {
+    height: 150px;
+  }
+  .mining .image-block {
+    height: 500px;
+  }
+
+  .Reckoning .image-block {
+    height: 660px;
+  }
+  .Latest__wrapper {
+    max-width: 500px;
+  }
+
+  .Latest__wrapper .Stories__block-thumb {
+    height: 440px;
+  }
+  .contact__form {
+    padding: 30px 20px;
+  }
+
+  .contact__form-option .form-check-inline {
+    padding-left: 36px;
+    font-size: 14px;
+  }
+
+  .contact__form-option .form-check-inline input {
+    margin-top: 3px;
+    width: 14px;
+    height: 14px;
+  }
+  .Featured__block .d-flex,
+  .Featured__item-content .info {
+    gap: 10px;
+  }
+  .Featured__item .image-block {
+    width: 180px;
+    height: 150px;
+  }
+
+  .Featured__item-content {
+    height: 150px;
+  }
+  .Stories__block-content p br {
+    display: none !important;
+  }
+  .Comparison__tab thead td p {
+    font-size: 14px;
+  }
+  .mining__content {
+    padding-left: 20px;
+  }
+
+  .Reckoning .Execute__block h3 {
+    font-size: 22px;
+  }
+
+  .Reckoning .Execute__block p {
+    font-size: 14px;
+  }
+  .Origins__block:after,
+  .Origins__block:before {
+    right: -75px;
+  }
+
+  .Origins__block.right:after {
+    left: -74px;
+  }
+  .People-left-shape {
+    left: 0;
+  }
+
+  .People-right-shape {
+    right: 0;
+  }
+  .Featured__block .Stories__block-thumb {
+    height: 350px;
+  }
+  .joinUs .image-block {
+    height: 420px;
+  }
+  .hero__content p {
+    max-width: 100%;
+  }
+}
+
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  :root {
+    --f18: 16px;
+    --f20: 18px;
+    --f22: 18px;
+    --f24: 20px;
+    --f28: 24px;
+    --f30: 24px;
+    --f32: 24px;
+    --f36: 30px;
+    --f40: 32px;
+    --f48: 36px;
+  }
+  .v2 .logo-area a {
+    margin: 0;
+  }
+  .container.lg {
+    max-width: 100%;
+  }
+  .pb_150 {
+    padding-bottom: 100px;
+  }
+
+  .mb_80 {
+    margin-bottom: 50px;
+  }
+  .pb_80 {
+    padding-bottom: 50px;
+  }
+  .pt_80 {
+    padding-top: 50px;
+  }
+  .pt_100 {
+    padding-top: 70px;
+  }
+
+  .pb_100 {
+    padding-bottom: 70px;
+  }
+
+  .mb_100 {
+    margin-bottom: 70px;
+  }
+  .text-xl {
+    font-size: 16px;
+  }
+  .big-title {
+    font-size: 32px;
+  }
+  h1 {
+    font-size: 40px;
+  }
+  .theme_btn {
+    padding-left: 30px;
+    height: 52px;
+  }
+
+  .theme_btn-border {
+    padding-left: 30px;
+    height: 52px;
+  }
+
+  .theme_btn-border span,
+  .theme_btn span {
+    margin-left: 24px;
+    height: 42px;
+    width: 44px;
+  }
+  .hero__content {
+    padding: 20px;
+  }
+
+  .hero__content h1 {
+    font-size: 60px;
+  }
+
+  .common__card-content h4 {
+    font-size: 24px;
+  }
+
+  .Advantage__item h3 {
+    font-size: 20px;
+  }
+
+  .section-title h1 {
+    font-size: var(--f40);
+  }
+
+  .section-title p {
+    font-size: 14px;
+  }
+
+  .History .section-title p {
+    max-width: 500px;
+  }
+
+  .text-80 {
+    font-size: 48px;
+  }
+
+  .user-block p {
+    font-size: 14px;
+  }
+
+  .feedback__block > p {
+    font-size: 16px;
+  }
+
+  .feedback__block {
+    padding: 24px;
+  }
+
+  .map-block iframe {
+    height: 400px;
+  }
+  .Trade__video .d-flex span {
+    width: 100%;
+    height: 1px;
+  }
+  .Trade__list li {
+    width: 100%;
+  }
+  .gx-80 {
+    --bs-gutter-x: 30px;
+  }
+  .Comparison__option p {
+    max-width: 290px;
+  }
+
+  section.Merchants h2 {
+    font-size: 30px;
+  }
+  .web-Logo {
+    flex-wrap: wrap;
+  }
+  .Journey__block picture {
+    width: 200px;
+    height: 200px;
+  }
+  .Origins__block {
+    max-width: 315px;
+  }
+
+  .Origins__block:after {
+    right: -42px;
+  }
+
+  .Origins__block.right:after {
+    left: -41px;
+  }
+  .History__wrapper {
+    overflow: auto;
+    margin-right: -350px;
+    padding-right: 90px;
+  }
+
+  .History__wrapper .Journey__block {
+    padding: 0 20px;
+  }
+
+  .History__wrapper .Journey__block span:after {
+    width: 129%;
+  }
+  .mining__content {
+    padding: 0;
+  }
+
+  .mining__wrapper .mining__content {
+    padding: 20px;
+    padding-right: 0;
+  }
+
+  .Merchants .mining__content {
+    padding-left: 0;
+  }
+
+  .mining__content h1 {
+    font-size: 30px;
+  }
+
+  .mining__content .d-flex a {
+    height: 50px;
+    padding-left: 20px;
+  }
+
+  .mining__content .d-flex a span {
+    margin-left: 20px;
+    height: 40px;
+    width: 45px;
+  }
+  .Latest__wrapper {
+    max-width: 500px;
+  }
+
+  .Latest__wrapper .Stories__block-thumb {
+    height: 440px;
+  }
+  .contact__form {
+    padding: 30px 20px;
+  }
+
+  .contact__form-option .form-check-inline {
+    padding-left: 36px;
+    font-size: 14px;
+    width: 100%;
+  }
+
+  .contact__form-option .form-check-inline input {
+    margin-top: 3px;
+    width: 14px;
+    height: 14px;
+  }
+  .input {
+    height: 50px;
+  }
+
+  .select-wrap select {
+    padding: 12px 34px 12px 24px;
+  }
+  .Featured__block .d-flex,
+  .Featured__item-content .info {
+    gap: 10px;
+  }
+  .Featured__item .image-block {
+    width: 180px;
+    height: 150px;
+  }
+
+  .Featured__item-content {
+    height: 150px;
+  }
+  .Why__block {
+    padding: 14px 20px;
+  }
+
+  .Why__block p {
+    font-size: 14px;
+  }
+  .market .image-block {
+    height: 450px;
+  }
+  .Economics__tab .image-block {
+    padding-right: 0px;
+  }
+  .Journey .section-title p {
+    max-width: 400px;
+  }
+  .Journey__slider .owl-nav {
+    right: 4%;
+  }
+  .joinUs .image-block {
+    height: 409px;
+  }
+  .Execute__block p {
+    font-size: 14px;
+  }
+  .Ascendancy .Why__content {
+    padding-left: 12px;
+  }
+  section.Pressure .Execute__block {
+    width: 50%;
+  }
+
+  section.Pressure .Execute__content {
+    display: flex;
+    gap: 10px;
+  }
+  .Origins__block:before {
+    right: -53px;
+  }
+
+  .Origins__block.right:before {
+    left: -52px;
+  }
+  .People-left-shape {
+    left: 0;
+    max-width: 200px;
+  }
+
+  .People-right-shape {
+    right: 0;
+    max-width: 200px;
+  }
+  .Principles__block {
+    padding: 16px;
+  }
+
+  .Principles__block picture {
+    width: 64px;
+    height: 54px;
+    padding: 20px;
+  }
+  .mining .image-block {
+    height: 475px;
+  }
+  .Trade__video {
+    padding: 20px;
+  }
+  section.Why.v2 .image-block {
+    height: 400px;
+    padding-left: 40px;
+  }
+  .use-blog .image-block {
+    height: 400px;
+  }
+  .hero__content p {
+    max-width: 100%;
+  }
+
+  .growth__content {
+    padding-top: 30px;
+  }
+
+  .innovation__content {
+    max-width: 100%;
+  }
+  .innovation .image-block {
+    margin-right: 0;
+  }
+}
+
+/* small screen :320px. */
+@media (max-width: 767px) {
+  :root {
+    --f18: 16px;
+    --f20: 18px;
+    --f22: 18px;
+    --f24: 20px;
+    --f28: 24px;
+    --f30: 26px;
+    --f32: 24px;
+    --f36: 28px;
+    --f40: 30px;
+    --f48: 32px;
+  }
+  body {
+    font-size: 14px;
+  }
+  .container.lg {
+    max-width: 100%;
+  }
+  .logo-area a {
+    max-width: 50px;
+    height: auto;
+  }
+  .v2 .logo-area a {
+    margin: 0;
+  }
+  .container {
+    padding: 0 20px;
+  }
+  h1 {
+    font-size: 30px;
+  }
+  .container.last {
+    max-width: 100%;
+  }
+
+  .pb_100 {
+    padding-bottom: 60px;
+  }
+  .pb_150 {
+    padding-bottom: 75px;
+  }
+
+  .pt_80 {
+    padding-top: 48px;
+  }
+  .mb_80 {
+    margin-bottom: 50px;
+  }
+  .pb_80 {
+    padding-bottom: 50px;
+  }
+  .pt_100 {
+    padding-top: 60px;
+  }
+
+  .mb_100 {
+    margin-bottom: 60px;
+  }
+  .text-xl {
+    font-size: 14px;
+  }
+  .big-title {
+    font-size: 32px;
+  }
+  .theme_btn {
+    padding-left: 20px;
+    height: 48px;
+  }
+
+  .theme_btn span {
+    margin-left: 20px;
+    width: 42px;
+    height: 40px;
+  }
+
+  .theme_btn-border {
+    padding-left: 20px;
+    height: 48px;
+  }
+
+  .theme_btn-border span {
+    margin-left: 20px;
+    width: 42px;
+    height: 40px;
+  }
+  .hero__content {
+    padding: 50px 0;
+  }
+
+  .hero__content p {
+    margin-right: 0;
+  }
+  .hover-dropdown .dropdown-menu {
+    width: 90%;
+    border: none;
+  }
+  .use-blog .image-block {
+    height: 300px;
+  }
+  .dropdown-item {
+    padding: 0 10px;
+  }
+  .hero__content h1 {
+    font-size: 32px;
+  }
+  .footer__nav a {
+    padding: 7px 0;
+  }
+  .common__card,
+  .Solution .common__card {
+    height: auto;
+  }
+  .common__card-content h4 {
+    font-size: 24px;
+  }
+
+  .Advantage__item h3 {
+    font-size: 20px;
+  }
+
+  .section-title h1 {
+    font-size: var(--f40);
+  }
+
+  .section-title p {
+    font-size: 14px;
+  }
+
+  .text-80 {
+    font-size: 36px;
+  }
+
+  .user-block p {
+    font-size: 14px;
+  }
+
+  .feedback__block > p {
+    font-size: 14px;
+    min-height: 0;
+  }
+
+  .feedback__block {
+    padding: 24px;
+  }
+
+  .map-block iframe {
+    height: 250px;
+  }
+  .Growth__item {
+    gap: 40px;
+  }
+  .joinUs .image-block {
+    height: 340px;
+    margin: 0;
+    margin-inline: -22px;
+  }
+
+  .joinUs__content {
+    padding: 50px 0;
+  }
+
+  .newsLettar__form {
+    flex-direction: column;
+  }
+
+  .newsLettar-input {
+    padding-left: 16px;
+  }
+
+  .newsLettar__form input {
+    max-width: 100%;
+  }
+
+  .newsLettar__form button {
+    width: 100%;
+    justify-content: center;
+    max-width: 336px;
+  }
+
+  .footer__content-form {
+    flex-direction: column;
+  }
+
+  .footer__content-form input {
+    max-width: 100%;
+  }
+
+  .footer__content-form button {
+    width: 100%;
+  }
+
+  .footer__nav {
+    gap: 40px 0;
+    flex-wrap: wrap;
+    justify-content: start;
+  }
+
+  .mt_80 {
+    margin-top: 40px;
+  }
+
+  .footer__nav ul {
+    width: 50%;
+  }
+
+  .footer__bottom {
+    flex-direction: column-reverse;
+    gap: 20px;
+  }
+
+  .footer__bottom ul {
+    gap: 16px;
+    justify-content: center;
+  }
+
+  .footer__bottom p {
+    justify-content: center;
+    text-align: center;
+  }
+  .Trade__video .d-flex span {
+    width: 100%;
+    height: 1px;
+  }
+  .Trade__list li {
+    width: 100%;
+  }
+  .gx-80 {
+    --bs-gutter-x: 30px;
+  }
+  .Comparison__option p {
+    max-width: 100%;
+    padding: 16px;
+  }
+
+  .Trade__video {
+    max-width: 100%;
+    margin-top: 40px;
+  }
+
+  .Comparison__option {
+    flex-wrap: wrap;
+    padding: 0;
+  }
+
+  .Comparison__option ul {
+    padding: 12px 0;
+  }
+
+  .web-Logo {
+    flex-wrap: wrap;
+  }
+  .Journey__block picture {
+    width: 200px;
+    height: 200px;
+  }
+  .Latest__content .Stories__block {
+    margin-bottom: 32px;
+  }
+
+  .Breakdown__block {
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+  }
+
+  .Breakdown__block > div {
+    flex-direction: column;
+    width: 100%;
+    align-items: start;
+  }
+
+  .Breakdown__block .image-block {
+    width: 100%;
+    height: 100%;
+  }
+
+  .Breakdown__block p {
+    max-width: 100%;
+  }
+  .Origins__block {
+    margin-bottom: 16px;
+  }
+
+  .Origins__block:after {
+    left: -34px;
+  }
+
+  .Origins__block.right:after {
+    left: -34px;
+  }
+
+  .Origins__content {
+    padding-left: 36px;
+  }
+
+  .Origins-line {
+    left: 10px;
+  }
+  .History__wrapper {
+    display: block;
+  }
+
+  .History__wrapper .Journey__block {
+    text-align: left;
+    position: relative;
+    padding-left: 150px;
+    padding-bottom: 30px;
+  }
+
+  .History__wrapper .Journey__block picture {
+    flex-shrink: 0;
+    width: 98px;
+    height: 98px;
+    margin: 0;
+    position: absolute;
+    left: 0;
+  }
+
+  .History__wrapper .Journey__block span {
+    position: absolute;
+    left: 116px;
+    height: 100%;
+  }
+
+  .History__wrapper .Journey__block span:after {
+    height: 100%;
+    width: 3px;
+    margin-left: 6px;
+  }
+
+  .History__wrapper .Journey__block:last-child span:after {
+    display: none;
+  }
+
+  .History__wrapper .Journey__block span:before {
+    margin: 0;
+    top: 6px;
+  }
+
+  .History__wrapper .Journey__block p {
+    padding: 0;
+  }
+  .Featured__item {
+    flex-direction: column;
+  }
+
+  .Featured__item-content {
+    padding: 10px;
+    padding-top: 0;
+    height: auto;
+  }
+
+  .Featured__item-content > a {
+    position: unset;
+  }
+
+  .Featured__item .image-block {
+    width: 100%;
+    height: 220px;
+  }
+  .Featured__block .image-block {
+    height: 340px;
+  }
+
+  .Foundation .Featured__item .image-block {
+    height: 220px;
+  }
+  .mining .image-block,
+  .market .image-block {
+    margin: 0;
+    height: 340px;
+    margin-inline: -20px;
+  }
+
+  .Economics__tab .image-block {
+    padding: 0;
+  }
+
+  .Economics__tab-content {
+    padding: 20px;
+  }
+
+  .mining__content {
+    padding: 20px 0;
+  }
+
+  .mining__wrapper .mining__content {
+    padding: 20px;
+  }
+  .newsLettar__wrapper {
+    padding: 20px;
+  }
+
+  .newsLettar__form + small {
+    text-align: center;
+  }
+  .footer__content > a {
+    margin: auto;
+    width: max-content;
+  }
+
+  .footer__content p {
+    text-align: center;
+  }
+  .Latest__wrapper .Stories__block-thumb {
+    height: 320px;
+  }
+  .Principles__block p {
+    min-height: auto;
+  }
+  .contact__form {
+    padding: 30px;
+  }
+
+  .contact__form-option .form-check-inline {
+    width: 100%;
+  }
+  .input {
+    height: 50px;
+  }
+
+  .select-wrap select {
+    padding: 12px 34px 12px 24px;
+  }
+  .contact__content ul li a {
+    height: 60px;
+  }
+  .Featured__block .d-flex,
+  .Featured__item-content .info {
+    gap: 10px;
+  }
+  .Featured__block .Stories__block-thumb {
+    height: 350px;
+  }
+
+  .Events .Featured__block .Stories__block-thumb {
+    height: 240px;
+  }
+
+  .Comparison__nav button {
+    padding: 0 24px;
+    font-size: 14px;
+  }
+  .Why__block {
+    padding: 14px 20px;
+  }
+
+  .Why__block p {
+    font-size: 14px;
+  }
+  .Why .image-block,
+  .Technology .image-block {
+    margin: 0;
+    height: 320px;
+    margin-inline: -20px;
+    margin-top: 40px;
+  }
+  .Blog__slider.v2 .owl-prev {
+    left: 0;
+  }
+
+  .Blog__slider.v2 .owl-next {
+    right: 0px;
+  }
+
+  .Economics .tab__nav button {
+    padding: 0 20px;
+    font-size: 13px;
+    height: 40px;
+  }
+  .Journey__slider .owl-nav {
+    position: static;
+    justify-content: center;
+    margin-top: 30px;
+  }
+  .owl-nav i {
+    width: 40px;
+    height: 40px;
+  }
+  .Comparison__tab table {
+    min-width: 991px;
+  }
+
+  .Comparison__tab table td {
+    font-size: 14px;
+  }
+  .feedback__slider .owl-stage-outer {
+    margin-top: -40px;
+  }
+  .Execute__block h3 span {
+    width: 60px;
+    height: 50px;
+  }
+  .Ascendancy .Why__content {
+    padding-left: 0;
+  }
+
+  .Ascendancy .Why__content .row {
+    gap: 20px;
+  }
+
+  .Ascendancy .Why__block picture {
+    width: 60px;
+    height: 50px;
+    margin-bottom: 10px;
+  }
+  .Principles__block picture {
+    width: 76px;
+    height: 60px;
+  }
+  .People-left-shape {
+    left: 0;
+    max-width: 200px;
+  }
+
+  .People-right-shape {
+    right: 0;
+    max-width: 200px;
+  }
+  .Origins__block.right:before {
+    left: -45px;
+  }
+
+  .Origins__block:before {
+    right: auto;
+    left: -44px;
+  }
+  .Principles__block picture {
+    width: 64px;
+    height: 54px;
+    padding: 20px;
+  }
+  .accordion-button {
+    font-size: 20px;
+  }
+
+  .growth__content {
+    padding: 30px 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .growth__thumb {
+    min-height: 336px;
+  }
+}
