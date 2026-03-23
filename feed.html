@@ -1069,10 +1069,9 @@
             <div class="col-lg-8">
               <div class="footer-xfeed__embed">
                 <a
-                  class="twitter-timeline"
+                   class="twitter-timeline"
                   data-height="500"
                   data-theme="dark"
-                  data-chrome="noheader nofooter noborders transparent"
                   href="https://twitter.com/texitcoin"
                 >
                   Posts by @texitcoin
@@ -1237,26 +1236,10 @@
         line.style.setProperty("--fill-height", `${progress * 100}%`);
       });
     </script>
-    <script>
-      window.addEventListener("load", function () {
-        if (!document.getElementById("twitter-wjs")) {
-          const js = document.createElement("script");
-          js.id = "twitter-wjs";
-          js.src = "https://platform.twitter.com/widgets.js";
-          js.async = true;
-          js.charset = "utf-8";
-          js.onload = function () {
-            if (window.twttr && window.twttr.widgets) {
-              window.twttr.widgets.load(
-                document.querySelector(".footer-xfeed"),
-              );
-            }
-          };
-          document.body.appendChild(js);
-        } else if (window.twttr && window.twttr.widgets) {
-          window.twttr.widgets.load(document.querySelector(".footer-xfeed"));
-        }
-      });
-    </script>
+    <script
+      async
+      src="https://platform.twitter.com/widgets.js"
+      charset="utf-8"
+    ></script>
   </body>
 </html>
